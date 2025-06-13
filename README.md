@@ -21,6 +21,8 @@ I'm a Contract Software developer, here you'll find projects in various programm
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge&logo=testing-library&logoColor=white)
 
+... amongst others!
+
 ---
 
 ## 📂 My Public Repositories
