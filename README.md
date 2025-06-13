@@ -1,4 +1,8 @@
-### Hi, I'm Steven, a Contract Software developer, Here you'll find projects in various programming languages, tools, and frameworks.
+### Hi, I'm Steven.
+
+I'm a Contract Software developer, Here you'll find projects in various programming languages, tools, and frameworks.
+
+---
 
 ## 🛠️ Languages & Tools
 
@@ -17,7 +21,9 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge&logo=testing-library&logoColor=white)
 
+---
+
     ## 📫 How to Reach Me
 
-- [LinkedIn]([https://www.linkedin.com/in/stevencr](https://www.linkedin.com/in/stevencranfield/))
+- [LinkedIn] [https://www.linkedin.com/in/stevencr](https://www.linkedin.com/in/stevencranfield/)
 - Email: steven_cranfield@hotmail.com
