@@ -33,7 +33,7 @@ I'm a Contract Software Developer, here you'll find projects in various programm
 
 ## 📂 My Public Repositories
 
-- LingoLearn - https://github.com/stevencr/lingolearn
+- LingoLearn - https://github.com/stevencr/lingolearn: A modern React Native app for improving conversational skills using GPT3.
 
 ---
 
