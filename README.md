@@ -23,7 +23,7 @@ I'm a Contract Software developer, Here you'll find projects in various programm
 
 ---
 
-    ## 📫 How to Reach Me
+## 📫 How to Reach Me
 
 - [LinkedIn] [https://www.linkedin.com/in/stevencr](https://www.linkedin.com/in/stevencranfield/)
 - Email: steven_cranfield@hotmail.com
