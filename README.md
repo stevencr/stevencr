@@ -23,7 +23,13 @@ I'm a Contract Software developer, here you'll find projects in various programm
 
 ---
 
+## 📂 My Public Repositories
+
+- LingoLearn - https://github.com/stevencr/lingolearn
+
+---
+
 ## 📫 How to Reach Me
 
-- [LinkedIn] [https://www.linkedin.com/in/stevencr](https://www.linkedin.com/in/stevencranfield/)
+- LinkedIn: [https://www.linkedin.com/in/stevencr](https://www.linkedin.com/in/stevencranfield/)
 - Email: steven_cranfield@hotmail.com
