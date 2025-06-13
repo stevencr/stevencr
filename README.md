@@ -1,6 +1,6 @@
 ### Hi, I'm Steven.
 
-I'm a Contract Software developer, here you'll find projects in various programming languages, tools, and frameworks.
+I'm a Contract Software Developer, here you'll find projects in various programming languages, tools, and frameworks.
 
 ---
 
