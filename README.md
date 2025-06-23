@@ -34,6 +34,8 @@ I'm a Contract Software Developer, here you'll find projects in various programm
 
 ## 📂 My Public Repositories
 
+⚠️ **NOTE: Nearly all of my projects are private commercial work and cannot be made public but may be viewed on request** 
+
 - LingoLearn - https://github.com/stevencr/lingolearn: A modern React Native app for improving conversational skills using GPT3.
 
 ---
