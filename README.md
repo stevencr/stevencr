@@ -1,6 +1,10 @@
 ### Hi, I'm Steven.
 
-I'm a Contract Software Developer, here you'll find projects in various programming languages, tools, and frameworks.
+I'm a Contract Software Developer, here you'll find projects in various programming languages, tools, and frameworks. I'm a skilled and experienced Full-Stack Software Developer with a strong passion for designing and implementing innovative software solutions. 
+
+I specialise in building applications using React and .NET, and I consistently strive to deliver high-quality results with a focus on 100% client satisfaction.
+
+I have a proven track record in both frontend and backend development across a wide range of platforms, working with diverse languages and frameworks including C#, VB.NET, React, React Native, WPF, and TypeScript.
 
 ---
 
