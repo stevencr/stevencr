@@ -1,4 +1,4 @@
-### Steven Cranfield.
+### Steven Cranfield on GitHub
 
 I'm a Contract Software Developer, here you'll find projects in various programming languages, tools, and frameworks. 
 
