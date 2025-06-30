@@ -42,7 +42,7 @@ I have a proven track record in both frontend and backend development across a w
 
 ⚠️ **NOTE: Nearly all of my projects are private commercial work and cannot be made public but may be viewed on request** 
 
-- LingoLearn - https://github.com/stevencr/lingolearn: A modern React Native app for improving conversational skills using GPT3.
+- LingoLearn - https://github.com/stevencr/lingolearn: A modern React Native prototype app for improving conversational skills using GPT3.
 
 ---
 
