@@ -6,7 +6,7 @@ I'm a skilled and experienced Full-Stack Software Developer with extensive exper
 
 I specialise in building applications using React and .NET and I consistently strive to deliver high-quality results with a focus on 100% client satisfaction.
 
-I have a proven track record in both frontend and backend development across a wide range of platforms, working with diverse languages and frameworks including C#, VB.NET, React, React Native, WPF, and TypeScript.
+I have a proven track record in both frontend and backend development across a wide range of platforms, working with diverse languages, frameworks and tooling including C#, VB.NET, React, React Native, WPF, and TypeScript.
 
 ---
 
