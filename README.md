@@ -34,7 +34,7 @@ I have a proven track record in both frontend and backend development across a w
 ![Testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-... amongst others!
+... amongst others.
 
 ---
 
