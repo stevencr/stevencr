@@ -1,16 +1,38 @@
-### Steven Cranfield on GitHub
+<h1 align="center">Hi, I'm Steven Cranfield</h1>
 
-I'm a Contract Software Developer, here you'll find projects in various programming languages, tools, and frameworks. 
+<p align="center">
+  <strong>Software Engineer | AI-Powered Solutions Architect</strong>
+</p>
 
-I'm a skilled and experienced Full-Stack Software Developer with extensive experience in designing and implementing innovative software solutions. 
-
-I specialise in building applications using React and .NET and I consistently strive to deliver high-quality results with a focus on 100% client satisfaction.
-
-I have a proven track record in both frontend and backend development across a wide range of platforms, working with diverse languages, frameworks and tooling including C#, VB.NET, React, React Native, WPF, and TypeScript.
+<p align="center">
+  <a href="https://www.linkedin.com/in/stevencranfield" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:steven_cranfield@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 About Me
+
+I'm a **Software Engineer** and **Strategic Technology Consultant** specializing in AI-powered solutions, enterprise architecture, and secure, scalable systems. With deep expertise across the full software development lifecycle, I architect and deliver mission-critical applications that balance innovation with operational excellence.
+
+### Strategic Capabilities
+
+- 🤖 **AI & Automation**: LLM integration, MCP (Model Context Protocol) agents, n8n workflow automation, intelligent chatbots
+- 🏗️ **Architecture & Design**: Microservices, event-driven systems, resilient distributed architectures, API design patterns
+- 🔒 **Security & Compliance**: Zero-trust principles, OWASP standards, data protection, secure CI/CD pipelines, vulnerability management
+- ⚛️ **Frontend Excellence**: React, React Native, TypeScript, Redux Toolkit, Angular, Next.js
+- 🔧 **Backend Mastery**: .NET (C#), Node.js, Web APIs, GraphQL, real-time messaging (RabbitMQ, Kafka)
+- ☁️ **Cloud-Native Solutions**: AWS, GCP, containerization (Docker), Kubernetes, serverless architectures
+- 🧪 **Quality Assurance**: Comprehensive testing strategies (unit, integration, E2E), Playwright, TDD/BDD practices
+- 📊 **Data Engineering**: SQL/NoSQL optimization, data pipeline design, real-time analytics
+
+---
+
+## 🛠️ Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -32,21 +54,61 @@ I have a proven track record in both frontend and backend development across a w
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge&logo=testing-library&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-... amongst others.
+### Additional Technologies
+
+Node.js, Next.js, Supabase, Firebase, PostgreSQL, Git, REST APIs, GraphQL, LangChain, Anthropic Claude, GitHub Copilot, Model Context Protocol (MCP), automated testing frameworks, security scanning tools, and more.
 
 ---
 
-## 📂 My Public Repositories
+## 💼 Professional Work
 
-⚠️ **NOTE: Nearly all of my projects are private commercial work and cannot be made public but may be viewed on request** 
+⚠️ **Note:** The majority of my work involves private, enterprise-grade systems under NDA. Examples include:
 
-- LingoLearn - https://github.com/stevencr/lingolearn: A modern React Native prototype app for improving conversational skills using GPT3.
+- **Financial Services**: PCI-DSS compliant payment systems, fraud detection, audit logging
+- **Healthcare**: HIPAA-compliant patient portals, secure data pipelines, regulatory reporting
+- **Enterprise SaaS**: Multi-tenant architectures, SSO/SAML integration, role-based access control (RBAC)
+- **AI Solutions**: Custom MCP agents for automation, n8n workflow orchestration, LLM-powered analytics
+- **Cloud Migration**: Legacy system modernization, zero-downtime deployments, disaster recovery planning
+- **DevOps & Security**: Automated testing pipelines, vulnerability scanning (Snyk, SonarQube), infrastructure as code
+- **Real-Time Systems**: WebSocket architectures, event streaming (Kafka, RabbitMQ), distributed caching
+
+**Available for detailed discussion during consultation.**
 
 ---
 
-## 📫 How to Reach Me
+## 🎯 What I'm Working On
 
-- LinkedIn: [https://www.linkedin.com/in/stevencr](https://www.linkedin.com/in/stevencranfield/)
-- Email: steven_cranfield@hotmail.com
+- 🤖 **AI Agent Development**: Building intelligent MCP-based agents for workflow automation and code assistance
+- � **n8n Automation**: Creating sophisticated automation workflows connecting LLMs, APIs, and business systems
+- 🧠 **LLM Engineering**: Fine-tuning prompts, RAG implementations, vector databases for context-aware AI
+- 🔒 **Security Research**: Zero-trust architectures, API security patterns, automated vulnerability management
+- 🚀 **Performance Optimization**: Edge computing, micro-frontends, advanced caching strategies
+- 📚 **Continuous Learning**: AI safety, compliance automation, cloud-native observability
+- 🤝 **Open to Strategic Consulting**: Architecture reviews, technical due diligence, team mentorship
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/stevencranfield" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:steven_cranfield@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  💬 Open to strategic consulting, architecture design, AI integration projects, and technical leadership roles<br/>
+  ⚡ Security-focused • Compliance-aware • Test-driven • Scalable solutions • Rapid delivery
+</p>
+
+---
