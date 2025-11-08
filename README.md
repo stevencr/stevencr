@@ -71,12 +71,10 @@ Node.js, Next.js, Supabase, Firebase, PostgreSQL, Git, REST APIs, GraphQL, LangC
 
 ⚠️ **Note:** The majority of my work involves private, enterprise-grade systems under NDA. Examples include:
 
-- **Financial Services**: PCI-DSS compliant payment systems, fraud detection, audit logging
-- **Healthcare**: HIPAA-compliant patient portals, secure data pipelines, regulatory reporting
 - **Enterprise SaaS**: Multi-tenant architectures, SSO/SAML integration, role-based access control (RBAC)
 - **AI Solutions**: Custom MCP agents for automation, n8n workflow orchestration, LLM-powered analytics
 - **Cloud Migration**: Legacy system modernization, zero-downtime deployments, disaster recovery planning
-- **DevOps & Security**: Automated testing pipelines, vulnerability scanning (Snyk, SonarQube), infrastructure as code
+- **DevOps & Security**: Automated testing pipelines, vulnerability scanning, infrastructure as code, compliance as code
 - **Real-Time Systems**: WebSocket architectures, event streaming (Kafka, RabbitMQ), distributed caching
 
 **Available for detailed discussion during consultation.**
