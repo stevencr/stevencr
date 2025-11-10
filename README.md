@@ -4,15 +4,6 @@
   <strong>Software Engineer | AI-Powered Solutions Architect</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/stevencranfield" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:steven_cranfield@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
